@@ -1,6 +1,6 @@
 buildtype = release
 
-PROJECT = game-of-life-rs
+PROJECT = spinning-square
 TARGET = asmjs-unknown-emscripten
 
 DOCS_DIR = docs
